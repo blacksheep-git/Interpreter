@@ -1,0 +1,13 @@
+x=5;
+if x < 4 then
+wr 4;
+if x <= 5 then
+wr 5;
+if x > 6 then
+wr 6;
+if x >= 7 then
+wr 7;
+if x == 8 then
+wr 8;
+if x <> 9 then
+wr 9

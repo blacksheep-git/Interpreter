@@ -1,0 +1,1 @@
+begin x=12; x=24 end; wr x
